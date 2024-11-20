@@ -15,17 +15,16 @@ Criei uma planilha financeira com ajuda de IA e algumas ferramentas, ela serve p
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)**
-   para calcular os gastos e entradas de recursos e analisar quanto foi o valor total e a economia durante 3 meses;
-- IA Generativa **[]()** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+- Ferramenta **[Microsoft Excel](https://play.google.com/store/apps/details?id=com.microsoft.office.excel)**
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+**"ChatGPT"** para calcular os gastos e entradas de recursos e analisar quanto foi o valor total e a economia durante 3 meses; 
+**"Microsoft Excel"** para construir a planilha tabelas e gráficos;
 
 ## 🚀 Resultado
-O episódio é uma introdução acessível e estimulante ao campo de algoritmos de IA, ideal para quem busca uma compreensão rápida do assunto.
+Uma planilha com tabelas com tópicos demostrando no que foi gasto e quais foram as entradas de recuso, gráficos para analisar avanços de economia e para pode analisar entradas e saídas durante 3 meses.
 
-[LINK PARA O PODCAST AQUI](https://github.com/Joabe-IA/Podcast-Oque-S-o-algoritmos-de-IA-/blob/4cbde8ef2f663d26a6de10f46f14f61b5f5c9a76/O%20que%20s%C3%A3o%20algoritmos%20de%20IA.mp3)
+[LINK PARA para **planilha** AQUI]()
 
 ## 💭 Reflexão
 O projeto destacou como os algoritmos de IA apreendem a compreender e recomendar assuntos postagens e palavras que sejam baseadas nos interesse e preferência de cada pessoa.Tambem demostrando que através dos algoritmos, a IA apreende sobe uma determinada tarefa a ser feita.
