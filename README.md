@@ -27,7 +27,7 @@ Criei uma planilha financeira com ajuda de IA e algumas ferramentas, ela serve p
 **"Microsoft Excel"** para construir a planilha tabelas e gráficos;
 
 ## 🚀 Resultado
-Uma planilha com tabelas com tópicos demostrando no que foi gasto e quais foram as entradas de recuso, gráficos para analisar avanços de economia e para pode analisar entradas e saídas durante 3 meses.
+Uma planilha com tabelas com tópicos demostrando no que foi gasto e quais foram as entradas de recurso, gráficos para analisar avanços de economia e analisar entradas e saídas durante 3 meses.
 
 [APERTE AQUI PARA VER A PLANILHA](https://github.com/Joabe-IA/-Criando-uma-planilha-financeira/blob/1014a02e801ba25e47e683757e8d4101ba82b2ec/Planilha%20de%20gr%C3%A1ficos%20IA%20Nv%20uti.xlsx)
 
