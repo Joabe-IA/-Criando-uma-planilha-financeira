@@ -14,8 +14,8 @@
 Criei uma planilha financeira com ajuda de IA e algumas ferramentas, ela serve para organizar os gastos financeiros e também as entradas de recursos durante 3 meses, fiz alguns gráficos analisando gastos e entradas durante cada mês, também fiz outros gráficos demostrando quanto foi economizado e quanto foi o valor total de entrada e saída no final de 3 meses.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para calcular os gastos e entradas de recursos também analisar quanto foi o valor total e a economia durante 3 meses;
+- IA Generativa **[]()** para clonagem e sintetização de voz;
 - Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
