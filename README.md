@@ -38,5 +38,5 @@ Uma planilha com tabelas com tópicos demostrando no que foi gasto e quais foram
       width=80 
       src="https://github.com/Joabe-IA/prompts-recipe-to-create-a-ebook/blob/83a5818e50ddf71053b6a9fc17a1b06529454ff3/Screenshot_20241116_092529_File%20Manager%20%2B.jpg"
     />
-    <p>https://github.com/Joabe-IA<br>
+    <p>[Joabe Souza](https://github.com/Joabe-IA<br>)
 JOABE SOUZA
