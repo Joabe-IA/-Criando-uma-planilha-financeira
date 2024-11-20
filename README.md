@@ -14,7 +14,7 @@
 Criei uma planilha financeira com ajuda de IA e algumas ferramentas, ela serve para organizar os gastos financeiros e também as entradas de recursos durante 3 meses, fiz alguns gráficos analisando gastos e entradas durante cada mês, também fiz outros gráficos demostrando quanto foi economizado e quanto foi o valor total de entrada e saída no final de 3 meses.
 
 
-[APERTE AQUI PARA VER A PLANILHA](https://github.com/Joabe-IA/-Criando-uma-planilha-financeira/blob/a283bf9b5bd5443611ef431ba513f1999a5fe5dc/melhor%20atualiza%C3%A7%C3%A3o%20planilha%20-%20C%C3%B3pia%20nova.xlsx)
+[APERTE AQUI PARA VER A PLANILHA](https://github.com/Joabe-IA/-Criando-uma-planilha-financeira/blob/1014a02e801ba25e47e683757e8d4101ba82b2ec/Planilha%20de%20gr%C3%A1ficos%20IA%20Nv%20uti.xlsx)
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)**
@@ -27,7 +27,7 @@ Criei uma planilha financeira com ajuda de IA e algumas ferramentas, ela serve p
 ## 🚀 Resultado
 Uma planilha com tabelas com tópicos demostrando no que foi gasto e quais foram as entradas de recuso, gráficos para analisar avanços de economia e para pode analisar entradas e saídas durante 3 meses.
 
-[APERTE AQUI PARA VER A PLANILHA](https://github.com/Joabe-IA/-Criando-uma-planilha-financeira/blob/a283bf9b5bd5443611ef431ba513f1999a5fe5dc/melhor%20atualiza%C3%A7%C3%A3o%20planilha%20-%20C%C3%B3pia%20nova.xlsx)
+[APERTE AQUI PARA VER A PLANILHA](https://github.com/Joabe-IA/-Criando-uma-planilha-financeira/blob/1014a02e801ba25e47e683757e8d4101ba82b2ec/Planilha%20de%20gr%C3%A1ficos%20IA%20Nv%20uti.xlsx)
 
 ## 👨‍💻 Aluno
 
