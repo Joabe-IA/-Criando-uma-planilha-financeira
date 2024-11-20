@@ -1,4 +1,6 @@
-**#LabDIONattyOrNot** [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+**#LabDIONattyOrNot** [DIO](https://www.linkedin.com/school/dio-makethechange) e [Felipe Aguiar](https://github.com/felipeAguiarCode).
+
+**👨‍💻 Aluno**:[Joabe Souza](https://github.com/Joabe-IA)
 <p align="center">
     <img width="100" src="https://github.com/Joabe-IA/Joabe-IA/blob/0661cfa8347a1e5e4d8eebc83ba099807d723dca/IMG-20241113-WA0027.jpg">
 </p>
@@ -29,7 +31,7 @@ Uma planilha com tabelas com tópicos demostrando no que foi gasto e quais foram
 
 [APERTE AQUI PARA VER A PLANILHA](https://github.com/Joabe-IA/-Criando-uma-planilha-financeira/blob/1014a02e801ba25e47e683757e8d4101ba82b2ec/Planilha%20de%20gr%C3%A1ficos%20IA%20Nv%20uti.xlsx)
 
-## 👨‍💻 Aluno
+## 👨‍💻 Aluno:
 
 <p>
     <img 
