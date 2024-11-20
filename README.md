@@ -17,8 +17,8 @@ Criei uma planilha financeira com ajuda de IA e algumas ferramentas, ela serve p
 [APERTE AQUI PARA VER A PLANILHA](https://github.com/Joabe-IA/-Criando-uma-planilha-financeira/blob/1014a02e801ba25e47e683757e8d4101ba82b2ec/Planilha%20de%20gr%C3%A1ficos%20IA%20Nv%20uti.xlsx)
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)**
-- Ferramenta **[Microsoft Excel](https://play.google.com/store/apps/details?id=com.microsoft.office.excel)**
+- **IA Generativa** **[ChatGPT](https://chat.openai.com)**
+- **Ferramenta** **[Microsoft Excel](https://play.google.com/store/apps/details?id=com.microsoft.office.excel)**
 
 ## 🧐 Processo de Criação
 **"ChatGPT"** para calcular os gastos e entradas de recursos e analisar quanto foi o valor total e a economia durante 3 meses; 
