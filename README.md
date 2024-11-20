@@ -40,3 +40,9 @@ Uma planilha com tabelas com tópicos demostrando no que foi gasto e quais foram
     />
     <p>https://github.com/Joabe-IA<br>
 JOABE SOUZA
+
+
+
+---
+
+⌨️ com 💜 por [Joabe Souza](https://github.com/Joabe-IA)
